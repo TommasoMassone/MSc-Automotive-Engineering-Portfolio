@@ -29,4 +29,4 @@ Here you will find detailed reports and presentations covering three main areas 
 ---
 ### Contact
 Feel free to browse the files to see the methodology and results of my work.
-Connect with me on LinkedIn Profile | massonetommaso0@gmail.com
+Connect with me on [LinkedIn Profile](https://www.linkedin.com/in/tommaso-massone-237baa1ab/) | massonetommaso0@gmail.com
