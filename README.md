@@ -1,11 +1,11 @@
 # MSc-Automotive-Engineering-Portfolio
-Collection of MSc Automotive Engineering projects (Politecnico di Torino). Focus on CFD, FEM Structural Analysis, and Vehicle Control Systems.
+Collection of MSc Automotive Engineering projects (Politecnico di Torino). Focus on EM4HEV, Vehicle Control Systems, CFD and FEM Structural Analysis.
 
 # Automotive Engineering Portfolio
 
 Welcome to my academic portfolio! This repository collects the key technical projects I developed during my MSc in Automotive Engineering at **Politecnico di Torino**.
 
-Here you will find detailed reports and presentations covering three main areas of vehicle engineering: Aerodynamics, Structural Analysis, and Control Systems.
+Here you will find detailed reports and presentations covering three main areas of vehicle engineering: Energy Management, Control Systems, Aerodynamics and Structural Analysis.
 
 ## Repository Contents
 
