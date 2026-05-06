@@ -1,5 +1,5 @@
 # MSc-Automotive-Engineering-Portfolio
-Collection of MSc Automotive Engineering projects (Politecnico di Torino). Focus on EM4HEV, Vehicle Control Systems, CFD and FEM Structural Analysis.
+Collection of MSc Automotive Engineering projects. Focus on EM4HEV, Vehicle Control Systems, CFD and FEM Structural Analysis.
 
 # Automotive Engineering Portfolio
 
