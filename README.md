@@ -5,7 +5,7 @@ Collection of MSc Automotive Engineering projects. Focus on EM4HEV, Vehicle Cont
 
 Welcome to my academic portfolio! This repository collects the key technical projects I developed during my MSc in Automotive Engineering at **Politecnico di Torino**.
 
-Here you will find detailed reports and presentations covering three main areas of vehicle engineering: Energy Management, Control Systems, Aerodynamics and Structural Analysis.
+Here you will find detailed reports and presentations covering three main areas of vehicle engineering: Energy Management, Control Systems, Aerodynamics, Dynamic EV Charging Routing and Structural Analysis.
 
 ## Repository Contents
 
